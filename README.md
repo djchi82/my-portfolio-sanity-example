@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# my-portfolio-sanity-example
+This project is an example project used to learn Sanity.io and React.
+Tutorial can be found at https://www.youtube.com/watch?v=NO7_jgzVgbc
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# my-portfolio-sanity-example
+
