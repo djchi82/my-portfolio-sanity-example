@@ -1,6 +1,7 @@
 # my-portfolio-sanity-example
 This project is an example project used to learn Sanity.io and React.
 Tutorial can be found at https://www.youtube.com/watch?v=NO7_jgzVgbc
+Example source code here: https://github.com/sanity-io/create-react-app-blog
 
 
 
